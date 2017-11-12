@@ -1,10 +1,10 @@
 
 # Setup
-title:               jekyll Themes
-email:               example@gmail.com
+title:               Warnet Sameknet
+email:               sajiramekar.net@gmail.com
 tagline:             Free Jekyll theme made for developers
-url:                 "" # insert your site's URL
-baseurl:             ""
+url:                 "http://sameknet.com" # insert your site's URL
+baseurl:             "/"
 
 # About/contact
 author: # you can edit these to be your personal details
@@ -30,9 +30,9 @@ linkedin_username:
 dribbble_username: 
 
 # Custom vars
-version:             1.0.1
+version: 1.0.1
 github:
-repo:              https://github.com/bairahmat/jekyll-web
+repo: https://github.com/bairahmat/jekyll-web
 
 # Gems - Dependencies for this theme
 gems:
