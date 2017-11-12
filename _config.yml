@@ -1,6 +1,6 @@
 
 # Setup
-title:               DevAid
+title:               jekyll Themes
 email:               example@gmail.com
 tagline:             Free Jekyll theme made for developers
 url:                 "" # insert your site's URL
@@ -8,8 +8,8 @@ baseurl:             ""
 
 # About/contact
 author: # you can edit these to be your personal details
-  name:              Xiaoying Riley
-  url:               https://twitter.com/3rdwave_themes
+  name:              Bai Rahmat
+  url:               https://twitter.com/bai_rahmat
   email:
 
 # Google services
@@ -22,17 +22,17 @@ google_tag_manager:
 bing_verification:
 
 # Social
-github_username: thundergolfer
-twitter_username: 3rdwave_themes
-instagram_username: kevin/
-facebook: 3rdwavethemes/
-linkedin_username: xiaoying
-dribbble_username: Xiaoying
+github_username: bairahmat
+twitter_username: bai_rahmat
+instagram_username: 
+facebook: bairahmat
+linkedin_username: 
+dribbble_username: 
 
 # Custom vars
 version:             1.0.1
 github:
-  repo:              https://github.com/kevit/devaid-jekyll-theme
+repo:              https://github.com/bairahmat/jekyll-web
 
 # Gems - Dependencies for this theme
 gems:
