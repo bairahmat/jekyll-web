@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # devAid **Jekyll** Theme
 
 <p align="center">
@@ -20,3 +21,6 @@ A Jekyll server will be run locally so that you can see your site.
 ### Download
 
 [Download Tar Package](https://github.com/kevit/devaid-jekyll-theme/blob/master/archive.tar.bz2), or [get .zip package](https://github.com/thundergolfer/devaid-jekyll-theme/archive/master.zip)
+=======
+# jekyll-web
+>>>>>>> 3ac2ad0c1b91d434c11f841295586f604e9141ad
